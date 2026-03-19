@@ -17,7 +17,8 @@ A modern, elegant macOS Redis GUI client built with Electron, Next.js, and Tailw
 
 ## Screenshots
 
-Coming soon...
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/98a5f26d-a1a2-45dc-a6d8-30eb88e23a6b" />
+
 
 ## Installation
 
