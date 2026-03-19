@@ -17,7 +17,8 @@
 
 ## 截图
 
-即将推出...
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f5f669e1-29f2-4dba-b47c-faa14005c773" />
+
 
 ## 安装
 
